@@ -52,13 +52,13 @@ If a question is outside the document scope, the system responds:
 
 ## 📂 Project Structure
 
-nutrition-rag-ai/  
+nutrition_RAG_AI_Agent/  
 │── ingest.py  
 │── app.py  
 │── requirements.txt  
-│── .env.example  
+│── .env 
 │── README.md  
-│── examples.md  
+│── nutrition.pdf
 
 ---
 
@@ -111,16 +111,4 @@ If the answer is not present, the system safely refuses.
 - Document understanding for dietary content  
 - Safe AI applications in regulated domains  
 
----
 
-## 📌 Notes
-
-- This project is a **local prototype**  
-- Focuses on correctness, grounding, and AI safety  
-- Suitable for AI Engineer / Generative AI roles  
-
----
-
-## 👤 Author
-
-**Jayanth**
