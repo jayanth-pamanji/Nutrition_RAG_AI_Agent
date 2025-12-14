@@ -56,7 +56,7 @@ nutrition_RAG_AI_Agent/
 │── ingest.py  
 │── app.py  
 │── requirements.txt  
-│── .env 
+│── .env     
 │── README.md  
 │── nutrition.pdf
 
